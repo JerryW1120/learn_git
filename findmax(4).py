@@ -8,9 +8,9 @@ def findmax(n):
         mylist.append(item)
         count += 1
 
-    return mylist
+    return max(mylist)
 
 n = int(input("请输入列表元素个数: "))
-print("列表中最大的元素是：", max(findmax(n)))
+print("列表中最大的元素是：", findmax(n))
 
 

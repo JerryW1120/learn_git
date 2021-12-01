@@ -9,13 +9,13 @@ def mean(n):
         sum += number
         count += 1
 
-    return list_number, sum
+    return list_number, float(sum / n)
 
 
 n = int(input("请输入列表数字个数: "))
 
-list_number, sum = mean(n)
+list_number, mean_num = mean(n)
 
 print("列表是：", list_number)
 
-print('列表中所有数的平均值为：%.3f' % (sum / n))
+print('列表中所有数的平均值为：%.3f' % mean_num)
