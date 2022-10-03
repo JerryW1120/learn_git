@@ -1,0 +1,18 @@
+[INFO  2022-05-25T21:56:27,922 net.lightbody.bmp.proxy.Main] (main) Starting BrowserMob Proxy version 2.1.4 
+[INFO  2022-05-25T21:56:28,026 org.eclipse.jetty.util.log] (main) jetty-7.x.y-SNAPSHOT 
+[INFO  2022-05-25T21:56:28,068 org.eclipse.jetty.util.log] (main) started o.e.j.s.ServletContextHandler{/,null} 
+[INFO  2022-05-25T21:56:28,193 org.eclipse.jetty.util.log] (main) Started SelectChannelConnector@liveupdate7.drivergenius.com:8080 
+[WARN  2022-05-25T21:56:28,943 net.lightbody.bmp.BrowserMobProxyServerLegacyAdapter] (qtp650013863-19) Chained proxy support through setOptions is deprecated. Use setUpstreamProxy() to enable chained proxy support. 
+[INFO  2022-05-25T21:56:29,152 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp650013863-19) Starting proxy at address: 0.0.0.0/0.0.0.0:8081 
+[INFO  2022-05-25T21:56:29,167 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp650013863-19) Proxy listening with TCP transport 
+[INFO  2022-05-25T21:56:29,223 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp650013863-19) Proxy started at address: /0:0:0:0:0:0:0:0:8081 
+[WARN  2022-06-02T01:49:01,571 org.eclipse.jetty.util.log] (qtp650013863-21) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:01,873 org.eclipse.jetty.util.log] (qtp650013863-20) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:02,479 org.eclipse.jetty.util.log] (qtp650013863-23) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:03,683 org.eclipse.jetty.util.log] (qtp650013863-18) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:08,765 org.eclipse.jetty.util.log] (qtp650013863-21) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:09,570 org.eclipse.jetty.util.log] (qtp650013863-21) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:09,919 org.eclipse.jetty.util.log] (qtp650013863-21) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:10,025 org.eclipse.jetty.util.log] (qtp650013863-18) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:11,945 org.eclipse.jetty.util.log] (qtp650013863-23) java.io.IOException: Closed 
+[WARN  2022-06-02T01:49:19,689 org.eclipse.jetty.util.log] (qtp650013863-21) java.io.IOException: Closed 

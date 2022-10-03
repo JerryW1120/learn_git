@@ -15,3 +15,10 @@ else:
     number_reverse = 0 -  int("".join(number))
 
 print("逆序后的数字为：", number_reverse)
+
+
+
+
+
+
+

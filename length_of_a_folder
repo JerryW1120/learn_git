@@ -1,0 +1,11 @@
+import os
+
+folder_dir = '/Users/jerryw/fsdownload/Y4'
+count = 0
+for folder in os.listdir(folder_dir):
+    # if folder.split('.')[1] == 'png':
+    count += 1
+
+
+
+print(count)
